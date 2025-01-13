@@ -50,7 +50,7 @@ Welcome to my personal portfolio! This project showcases my work, skills, and ex
 ## 🔗 Live Demo
 
 You can access the live version of my portfolio here:  
-[**Ganala Mohan Rao - Portfolio**](https://thughari.github.io)  
+[**Ganala Mohan Rao - Portfolio**](https://mohanrao58.github.io/Portfolio/)  
 
 ---
 
