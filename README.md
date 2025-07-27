@@ -1,5 +1,5 @@
 
-# Hari Thatikonda's Portfolio 🌐  
+# Ganala Mohan Rao's Portfolio 🌐  
 
 Welcome to my personal portfolio! This project showcases my work, skills, and experience as a software developer. It is designed to provide an overview of who I am and what I do, with interactive sections for easy navigation and a contact form for inquiries.
 
@@ -50,7 +50,7 @@ Welcome to my personal portfolio! This project showcases my work, skills, and ex
 ## 🔗 Live Demo
 
 You can access the live version of my portfolio here:  
-[**Hari Thatikonda - Portfolio**](https://thughari.github.io)  
+[**Ganala Mohan Rao - Portfolio**](https://mohanrao58.github.io/Portfolio/)  
 
 ---
 
@@ -78,10 +78,10 @@ For detailed instructions on integrating Google Apps Script with contact form, p
 
 Feel free to reach out to me through the contact form on the website or via my social media links:
 
-- **Email:** [haribabutatikonda3@gmail.com](mailto:haribabutatikonda3@gmail.com)  
-- **LinkedIn:** [Hari Thatikonda](https://www.linkedin.com/in/hari-thatikonda/)  
-- **GitHub:** [thughari](https://github.com/thughari)  
-- **Instagram:** [Thug Hari](https://www.instagram.com/thug_hari)  
+- **Email:** [mohanraoganala7@gmail.com](mailto:mohanraoganala7@gmail.com)  
+- **LinkedIn:** [Ganala Mohan Rao](https://www.linkedin.com/in/mohanraoganala/)  
+- **GitHub:** [MohanRao58](https://github.com/MohanRao58)  
+- **Instagram:** [Ganala Mohan Rao](https://www.instagram.com/mohanraoganala/)  
 
 ---
 
